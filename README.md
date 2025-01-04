@@ -42,7 +42,7 @@
 
 ### Client: CVS Health, Irving, TX  
 
-<img src="path/to/your/cvs-health-image.jpg" alt="CVS Health" width="200" height="100">
+<img src="images/cvs health.png" alt="CVS Health" width="200" height="100">
 
 **Role:** Java Full Stack Developer  
 **Duration:** Jul 2023 – Present  
