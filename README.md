@@ -1,6 +1,6 @@
 # Sai Chandhu Kanaparthi's Portfolio
 
-<img src="images/profile-headpic.jpeg" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
+<img src="images/profile crop.JPG" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
 
 **Email:** chandhukanaparthi22@gmail.com  
 **Phone:** (614)-344-1676  
