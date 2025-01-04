@@ -1,115 +1,106 @@
-# Sai Chandhu Kanaparthi
+# Sai Chandhu Kanaparthi's Portfolio
 
-![Profile Picture](profile-picture.jpg)  
-*(Replace `profile-picture.jpg` with your actual profile picture in the repository.)*
+<img src="path/to/your/profile-image.jpg" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
 
----
+**Email:** chandhukanaparthi22@gmail.com  
+**Phone:** (614)-344-1676  
+**Location:** Dayton, OH  
 
-## About Me
+## Professional Summary
 
-Hi, I'm **Sai Chandhu Kanaparthi**, a dedicated and innovative Full Stack Developer with over **5 years** of professional experience. My expertise spans across modern web technologies, scalable backend architectures, cloud computing, and DevOps practices.
+<img src="path/to/your/professional-summary-image.jpg" alt="Professional Summary" width="600" height="200">
 
-I am passionate about creating solutions that are not only functional but also robust, scalable, and secure. My journey as a developer is a mix of delivering high-quality projects and staying updated with the latest advancements in technology.
+- 5 years of comprehensive experience in web application development, including analysis, design, and maintenance, with proficiency in both Agile and Waterfall methodologies.
+- Expert in Java and Spring Boot, specializing in microservices architecture, RESTful API development, and security implementations using OAuth2.0 and Spring Security.
+- Advanced skills in front-end technologies, including Angular, ReactJS, and modern JavaScript frameworks, with a focus on developing dynamic, responsive user interfaces.
+- Proficient in backend technologies, utilizing Spring Framework (Spring Boot, Spring MVC, Spring Data), Hibernate, and Java EE for scalable and robust enterprise applications.
+- Strong database management expertise, with experience in relational databases (MySQL, Oracle, PostgreSQL) and NoSQL databases (MongoDB), including designing complex schemas and optimizing queries.
+- Experienced in cloud technologies and DevOps practices, including deploying applications on AWS (EC2, S3, Lambda) and optimizing cloud infrastructure, as well as implementing CI/CD pipelines with Jenkins, GitLab CI/CD, Docker, and Kubernetes.
 
----
+## Technical Skills
 
-## Skills
+<img src="path/to/your/technical-skills-image.jpg" alt="Technical Skills" width="600" height="200">
 
-- **Languages**: Java, Python, JavaScript, C++, SQL  
-- **Frontend Development**: ReactJS, Angular, HTML5, CSS3, Bootstrap  
-- **Backend Development**: Spring Boot, Hibernate, RESTful APIs  
-- **Databases**: MongoDB, MySQL, PostgreSQL  
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins  
-- **Testing & Tools**: JUnit, Selenium, Postman, Git, IntelliJ IDEA  
+**Methodologies:** SDLC, Agile, Waterfall, Scrum, TDD  
+**Programming Languages:** C, C++, Java, JavaScript, Python, SQL  
+**Frontend Technologies:** HTML5, CSS3, Bootstrap, JSP, AngularJS, NodeJS, ReactJS, Redux  
+**Backend Technologies:** Spring Framework (Spring Boot, Spring MVC, Spring Data, Spring Security), Hibernate, J2EE, RESTful APIs, JMS, JDBC, Microservices Architecture  
+**Messaging and Streaming:** Active MQ, JMS, SQS, Apache Kafka  
+**Database Technologies:** MySQL, Postgres, Oracle, DB2, MongoDB  
+**Cloud Technologies:** AWS, Azure, GCP  
+**Containerization and Orchestration, CI/CD:** Docker, Kubernetes, Helm, Jenkins, GitLab  
+**Version Control Tools:** Git, GitHub, SVN, BitBucket/Stash  
+**API Documentation and Testing Tools:** JUnit, Mockito, Selenium, Postman, JMeter  
+**Code Quality and Monitoring:** SonarQube, ELK Stack, Prometheus, Grafana, Log4J  
+**Security and Authentication:** OAuth2.0, JWT  
+**Development Tools and IDEs:** IntelliJ IDEA, Eclipse, Visual Studio Code, Spring Tool Suite, PyCharm, Anaconda  
+**Design Patterns and Architectural Styles:** MVC, Microservices, Serverless Architecture  
+**Web Services:** RESTful APIs, SOAP, API Gateway, Swagger, GraphQL  
+**Other:** XML, JSON, Design Patterns, Linux/Unix  
 
----
+## Professional Experience
 
-## Projects
+### Client: CVS Health, Irving, TX  
 
-### 1. **Mobile Banking System and Forex Management**  
-![Mobile Banking](project-images/mobile-banking.jpg)  
-*(Replace `project-images/mobile-banking.jpg` with the correct image path)*
+<img src="path/to/your/cvs-health-image.jpg" alt="CVS Health" width="200" height="100">
 
-- Built a mobile banking platform using **ReactJS** and **Spring Boot**.  
-- Enhanced system security with **Spring Security** and **JWT Authentication**.  
-- Deployed microservices on **AWS** using Jenkins CI/CD pipelines.  
+**Role:** Java Full Stack Developer  
+**Duration:** Jul 2023 – Present  
 
-[View Project](#)  
+**Responsibilities:**
+- Architected microservices with Java 17 and Spring Boot, ensuring modular and scalable architecture for Guidewire applications. Improved deployment speed by 40% and reduced system downtime by 30%, enabling efficient cloud-based testing environments.
+- Developed automated testing frameworks for both back-end (Java) and front-end (React 18), improving QA efficiency by 50% and enhancing user interface testing for dynamic and responsive UIs.
+- Utilized React’s state and props to efficiently manage and bind data retrieved from APIs to the view, enabling dynamic and interactive user interfaces.
+- Engineered a suite of RESTful APIs integrated with MySQL databases and external services using Hibernate, optimizing data validation and test coverage for end-to-end testing.
+- Containerized microservices using Docker and Kubernetes, deploying on AWS EKS for continuous integration and testing. Achieved 99.9% uptime in cloud-based environments.
 
----
+### Client: Virtusa, Dallas, TX  
 
-### 2. **E-commerce Platform Development**  
-![E-commerce Platform](project-images/ecommerce.jpg)
+<img src="path/to/your/virtusa-image.jpg" alt="Virtusa" width="200" height="100">
 
-- Developed the coupons and collections modules for a dynamic e-commerce system.  
-- Leveraged **ReactJS** for front-end and **Spring Boot** for backend architecture.  
-- Ensured data integrity using **MongoDB** and secure connections with **OAuth 2.0**.  
+**Role:** Java Developer  
+**Duration:** May 2022 – Jul 2023  
 
-[View Project](#)  
+**Responsibilities:**
+- Designed, developed, and maintained scalable, high-performance Java applications leveraging core Java concepts such as OOP, exception handling, multithreading, and collections.
+- Utilized relational databases like MySQL, PostgreSQL, and Oracle, implementing efficient data access and management with JPA/Hibernate ORM.
+- Developed enterprise-level applications using the Spring Framework (Spring Boot, Spring Security, Spring Data, Spring Cloud) for security, scalability, and modularity.
+- Automated build processes using Maven and Gradle, and configured Jenkins for continuous integration.
+- Developed and consumed RESTful APIs using Spring Boot, ensuring seamless integration with external services and third-party applications.
 
----
+### Client: Wipro, Austin, TX  
 
-### 3. **Digitalizing Banking Services**  
-![Digital Banking](project-images/digital-banking.jpg)
+<img src="path/to/your/wipro-image.jpg" alt="Wipro" width="200" height="100">
 
-- Transformed traditional banking services like loan applications into a digital format.  
-- Built secure, user-friendly interfaces with **ReactJS** and dynamic data flows.  
-- Optimized performance with backend services using **Spring Boot** and AWS.  
+**Role:** Java Software Engineer  
+**Duration:** Jan 2021 – Apr 2022  
 
-[View Project](#)  
+**Responsibilities:**
+- Developed a scalable testing framework for a web application using Java, Spring Boot, and Angular, achieving 50% faster test execution.
+- Deployed and tested applications on AWS Cloud services, utilizing Elastic Beanstalk, EC2, and RDS.
+- Configured Jenkins for CI/CD pipelines, automating the testing, building, and deployment processes using Maven.
+- Containerized Java applications using Docker, enabling consistent and portable deployments across various environments.
 
----
+### Client: Genpact, Hyderabad, India  
 
-## Experience
+<img src="path/to/your/genpact-image.jpg" alt="Genpact" width="200" height="100">
 
-### Java Full Stack Developer – CVS Health (Jul 2023 – Present)  
-- Architected microservices with **Java 17** and **Spring Boot**.  
-- Deployed cloud solutions on **AWS** using Docker and Kubernetes.  
-- Improved CI/CD pipelines with **GitHub Actions** and **GitLab CI/CD**.  
+**Role:** Java Developer  
+**Duration:** Aug 2019 – Jan 2021  
 
-### Java Developer – Virtusa (May 2022 – Jul 2023)  
-- Developed RESTful APIs secured with **OAuth 2.0**.  
-- Automated workflows with **Jenkins** and integrated **Apache Kafka** for messaging.  
-
-### Software Engineer – Wipro (Jan 2021 – Apr 2022)  
-- Designed and deployed scalable Java applications using **Spring Boot**.  
-- Achieved high code coverage with **JUnit** and automated end-to-end testing.  
-
----
+**Responsibilities:**
+- Designed and developed the user interface using Spring MVC, JSP, JSTL, JavaScript, custom tags, jQuery, HTML, and CSS to create dynamic and user-friendly web pages.
+- Implemented the web layer of the application with Spring MVC, including the development of controllers, views, and validators.
+- Automated test scripts using Selenium WebDriver and TestNG, decreasing manual testing efforts.
+- Worked with IDE as Eclipse and deployed into Apache Tomcat Web Server, JBoss, and used Maven build tool to achieve more functionality for build process.
+- Managed large datasets using NoSQL databases like MongoDB, ensuring high performance and scalability.
 
 ## Education
 
-- **Master’s Degree in Computer Science** – University of Dayton (2022 – 2024)  
-- **Bachelor’s Degree in Computer Science** – University of Hyderabad (2015 – 2019)  
+<img src="path/to/your/education-image.jpg" alt="Education" width="600" height="200">
 
----
-
-## Publications
-
-- **Spam Detection Framework Using Machine Learning Algorithms**  
-  Published in *JAMES: Journal of Advances in Management, Engineering, and Science*.  
-
----
-
-## Contact
-
-- **Email**: [chandhukanaparthi22@gmail.com](mailto:chandhukanaparthi22@gmail.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Portfolio**: [Your Portfolio URL Here](https://your-username.github.io/)  
-
----
-
-### Notes  
-- **Images**: Replace placeholders (`project-images/filename.jpg`) with actual screenshots stored in your `assets` folder.  
-- **Links**: Update "View Project" and contact links with relevant URLs.  
-- **Styling**: Follow CSS/HTML styles from the example template to maintain consistency.  
-
-Let me know if you'd like help integrating this with your repository or additional features!
-
-3. **Polished Layout**: Simplified formatting with a professional tone for broader appeal.
-
-Let me know if you'd like further refinements!
+**Master of Science, Computer Science** | University of Dayton, Dayton, OH  
+**Bachelor of Technology, Computer Science** | JNTU, India
 
 
-## 🌟 **Get in Touch!**  
-Feel free to explore my projects, reach out for collaborations, or just say hello!  
+  
