@@ -1,6 +1,4 @@
-# Sai Chandhu Kanaparthi's Portfolio
-
-<img src="images/profile crop.JPG" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
+# Full Stack Developer
 
 **Email:** chandhukanaparthi22@gmail.com  
 **Phone:** (614)-344-1676  
