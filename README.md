@@ -54,7 +54,7 @@
 
 ### Client: Virtusa, Dallas, TX  
 
-<img src="path/to/your/virtusa-image.jpg" alt="Virtusa" width="200" height="100">
+<img src="images/virtusa.png" alt="Virtusa" width="200" height="100">
 
 **Role:** Java Developer  
 **Duration:** May 2022 – Jul 2023  
