@@ -81,7 +81,7 @@
 
 ### Client: Genpact, Hyderabad, India  
 
-<img src="path/to/your/genpact-image.jpg" alt="Genpact" width="200" height="100">
+<img src="images/genpact.png" alt="Genpact" width="200" height="100">
 
 **Role:** Java Developer  
 **Duration:** Aug 2019 – Jan 2021  
