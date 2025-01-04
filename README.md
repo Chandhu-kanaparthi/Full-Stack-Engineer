@@ -68,7 +68,7 @@
 
 ### Client: Wipro, Austin, TX  
 
-<img src="path/to/your/wipro-image.jpg" alt="Wipro" width="200" height="100">
+<img src="images/wipro.jpeg" alt="Wipro" width="200" height="100">
 
 **Role:** Java Software Engineer  
 **Duration:** Jan 2021 – Apr 2022  
