@@ -1,4 +1,4 @@
-# Full Stack Developer
+## Full Stack Developer
 
 **Email:** chandhukanaparthi22@gmail.com  
 **Phone:** (614)-344-1676  
