@@ -95,7 +95,7 @@
 
 ## Education
 
-<img src="path/to/your/education-image.jpg" alt="Education" width="600" height="200">
+<img src="images/education.png" alt="Education" width="600" height="200">
 
 **Master of Science, Computer Science** | University of Dayton, Dayton, OH  
 **Bachelor of Technology, Computer Science** | JNTU, India
