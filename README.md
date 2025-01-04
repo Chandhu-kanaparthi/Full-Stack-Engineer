@@ -17,7 +17,7 @@
 
 ## Technical Skills
 
-<img src="images/skills.jpeg" alt="Technical Skills" width="600" height="200">
+<img src="images/skills.jpeg" alt="Technical Skills" width="100" height="100">
 
 **Methodologies:** SDLC, Agile, Waterfall, Scrum, TDD  
 **Programming Languages:** C, C++, Java, JavaScript, Python, SQL  
@@ -95,7 +95,7 @@
 
 ## Education
 
-<img src="images/education.png" alt="Education" width="600" height="200">
+<img src="images/education.png" alt="Education" width="50" height="50">
 
 **Master of Science, Computer Science** | University of Dayton, Dayton, OH  
 **Bachelor of Technology, Computer Science** | JNTU, India
