@@ -1,84 +1,115 @@
-# Sai Chandhu Kanaparthi  
-🌐 **Portfolio:** [Your Portfolio URL Here](https://your-username.github.io/)  
-📧 **Email:** [chandhukanaparthi22@gmail.com](mailto:chandhukanaparthi22@gmail.com)  
-📍 **Location:** Dayton, OH, USA  
+# Sai Chandhu Kanaparthi
+
+![Profile Picture](profile-picture.jpg)  
+*(Replace `profile-picture.jpg` with your actual profile picture in the repository.)*
 
 ---
 
-## 👋 Welcome to My Portfolio!  
-I am **Sai Chandhu Kanaparthi**, a passionate Full Stack Developer and Cloud Enthusiast with expertise in designing and building scalable, high-performance applications. My portfolio showcases my skills, projects, and professional journey.
+## About Me
+
+Hi, I'm **Sai Chandhu Kanaparthi**, a dedicated and innovative Full Stack Developer with over **5 years** of professional experience. My expertise spans across modern web technologies, scalable backend architectures, cloud computing, and DevOps practices.
+
+I am passionate about creating solutions that are not only functional but also robust, scalable, and secure. My journey as a developer is a mix of delivering high-quality projects and staying updated with the latest advancements in technology.
 
 ---
 
-## 📌 **About Me**  
-- 💻 **5 years** of experience in Web Development, specializing in **Java**, **Spring Boot**, and **JavaScript** frameworks.  
-- ☁️ Proficient in **AWS**, **Docker**, **Kubernetes**, and CI/CD pipelines for seamless deployments.  
-- 🌟 Skilled in both frontend and backend development using **ReactJS**, **Angular**, **MongoDB**, and **PostgreSQL**.  
-- 🔍 Detail-oriented and passionate about crafting user-centric and reliable solutions.  
+## Skills
+
+- **Languages**: Java, Python, JavaScript, C++, SQL  
+- **Frontend Development**: ReactJS, Angular, HTML5, CSS3, Bootstrap  
+- **Backend Development**: Spring Boot, Hibernate, RESTful APIs  
+- **Databases**: MongoDB, MySQL, PostgreSQL  
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker, Kubernetes, Jenkins  
+- **Testing & Tools**: JUnit, Selenium, Postman, Git, IntelliJ IDEA  
 
 ---
 
-## 🚀 **Projects**  
-Here are some of my most impactful projects. Click the project names for detailed insights!  
+## Projects
 
-### 1. **[Mobile Banking System and Forex Management](#)**  
-![Mobile Banking System](https://via.placeholder.com/600x300.png?text=Mobile+Banking+System+Preview)  
-- Built an end-to-end mobile banking platform with **ReactJS** and **Spring Boot**.  
-- Enabled secure foreign exchange services using **MongoDB** and **Spring Security**.  
-- Deployed microservices in **AWS** using **Jenkins CI/CD pipelines**.  
+### 1. **Mobile Banking System and Forex Management**  
+![Mobile Banking](project-images/mobile-banking.jpg)  
+*(Replace `project-images/mobile-banking.jpg` with the correct image path)*
 
----
+- Built a mobile banking platform using **ReactJS** and **Spring Boot**.  
+- Enhanced system security with **Spring Security** and **JWT Authentication**.  
+- Deployed microservices on **AWS** using Jenkins CI/CD pipelines.  
 
-### 2. **[E-commerce Platform Development](#)**  
-![E-commerce Platform](https://via.placeholder.com/600x300.png?text=E-commerce+Platform+Preview)  
-- Worked on the coupons and collections modules for a modern e-commerce platform.  
-- Utilized **ReactJS**, **Spring Boot**, and **MongoDB** for robust and scalable solutions.  
-- Implemented secure data transactions with **OAuth 2.0** and **JWT**.  
+[View Project](#)  
 
 ---
 
-### 3. **[Digitalizing Signature Features for Banking Services](#)**  
-![Digital Banking](https://via.placeholder.com/600x300.png?text=Digital+Banking+Features+Preview)  
-- Digitalized key banking services like home loans and personal loans using **ReactJS**.  
-- Delivered data securely via **Spring Security** and **AWS Lambda**.  
-- Improved user experience with dynamic forms and validations.  
+### 2. **E-commerce Platform Development**  
+![E-commerce Platform](project-images/ecommerce.jpg)
+
+- Developed the coupons and collections modules for a dynamic e-commerce system.  
+- Leveraged **ReactJS** for front-end and **Spring Boot** for backend architecture.  
+- Ensured data integrity using **MongoDB** and secure connections with **OAuth 2.0**.  
+
+[View Project](#)  
 
 ---
 
-## 📚 **Skills and Expertise**  
-Here’s what I bring to the table:  
+### 3. **Digitalizing Banking Services**  
+![Digital Banking](project-images/digital-banking.jpg)
 
-| **Category**          | **Technologies/Tools**                            |
-|-----------------------|--------------------------------------------------|
-| **Frontend**          | HTML, CSS, ReactJS, Angular, Bootstrap           |
-| **Backend**           | Java, Spring Boot, Hibernate, REST APIs          |
-| **Cloud & CI/CD**     | AWS, Docker, Kubernetes, Jenkins, GitLab         |
-| **Databases**         | MySQL, MongoDB, PostgreSQL                       |
-| **Testing & Monitoring**| JUnit, Selenium, Prometheus, Grafana            |
-| **Tools & Platforms** | IntelliJ IDEA, VS Code, Postman, JIRA            |
+- Transformed traditional banking services like loan applications into a digital format.  
+- Built secure, user-friendly interfaces with **ReactJS** and dynamic data flows.  
+- Optimized performance with backend services using **Spring Boot** and AWS.  
+
+[View Project](#)  
 
 ---
 
-## 🎓 **Education**  
-- **Master’s Degree in Computer Science**  
-  - *University of Dayton, Dayton, OH (2022 – 2024)*  
-- **Bachelor’s Degree in Computer Science**  
-  - *University of Hyderabad, Hyderabad, India (2015 – 2019)*  
+## Experience
+
+### Java Full Stack Developer – CVS Health (Jul 2023 – Present)  
+- Architected microservices with **Java 17** and **Spring Boot**.  
+- Deployed cloud solutions on **AWS** using Docker and Kubernetes.  
+- Improved CI/CD pipelines with **GitHub Actions** and **GitLab CI/CD**.  
+
+### Java Developer – Virtusa (May 2022 – Jul 2023)  
+- Developed RESTful APIs secured with **OAuth 2.0**.  
+- Automated workflows with **Jenkins** and integrated **Apache Kafka** for messaging.  
+
+### Software Engineer – Wipro (Jan 2021 – Apr 2022)  
+- Designed and deployed scalable Java applications using **Spring Boot**.  
+- Achieved high code coverage with **JUnit** and automated end-to-end testing.  
 
 ---
 
-## 📄 **Publications**  
-📖 **Spam Detection Framework Using Machine Learning Algorithms**  
-Published in *JAMES: Journal of Advances in Management, Engineering, and Science*.  
+## Education
+
+- **Master’s Degree in Computer Science** – University of Dayton (2022 – 2024)  
+- **Bachelor’s Degree in Computer Science** – University of Hyderabad (2015 – 2019)  
 
 ---
 
-## 📞 **Connect With Me**  
-- 📧 **Email:** [chandhukanaparthi22@gmail.com](mailto:chandhukanaparthi22@gmail.com)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile Here](https://www.linkedin.com)  
-- 🐦 **Twitter:** [Your Twitter Handle Here](https://twitter.com)  
+## Publications
+
+- **Spam Detection Framework Using Machine Learning Algorithms**  
+  Published in *JAMES: Journal of Advances in Management, Engineering, and Science*.  
 
 ---
+
+## Contact
+
+- **Email**: [chandhukanaparthi22@gmail.com](mailto:chandhukanaparthi22@gmail.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Portfolio**: [Your Portfolio URL Here](https://your-username.github.io/)  
+
+---
+
+### Notes  
+- **Images**: Replace placeholders (`project-images/filename.jpg`) with actual screenshots stored in your `assets` folder.  
+- **Links**: Update "View Project" and contact links with relevant URLs.  
+- **Styling**: Follow CSS/HTML styles from the example template to maintain consistency.  
+
+Let me know if you'd like help integrating this with your repository or additional features!
+
+3. **Polished Layout**: Simplified formatting with a professional tone for broader appeal.
+
+Let me know if you'd like further refinements!
+
 
 ## 🌟 **Get in Touch!**  
 Feel free to explore my projects, reach out for collaborations, or just say hello!  
