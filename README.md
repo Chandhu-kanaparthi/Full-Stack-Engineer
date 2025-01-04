@@ -1,14 +1,12 @@
 # Sai Chandhu Kanaparthi's Portfolio
 
-<img src="path/to/your/profile-image.jpg" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
+<img src="images/profile-headpic.jpeg" alt="Profile Image" width="150" height="150" style="border-radius:50%;">
 
 **Email:** chandhukanaparthi22@gmail.com  
 **Phone:** (614)-344-1676  
 **Location:** Dayton, OH  
 
 ## Professional Summary
-
-<img src="path/to/your/professional-summary-image.jpg" alt="Professional Summary" width="600" height="200">
 
 - 5 years of comprehensive experience in web application development, including analysis, design, and maintenance, with proficiency in both Agile and Waterfall methodologies.
 - Expert in Java and Spring Boot, specializing in microservices architecture, RESTful API development, and security implementations using OAuth2.0 and Spring Security.
