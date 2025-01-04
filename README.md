@@ -17,7 +17,7 @@
 
 ## Technical Skills
 
-<img src="images/skills.jpeg" alt="Technical Skills" width="100" height="100">
+<img src="images/skills crop.JPG" alt="Technical Skills" width="100" height="100">
 
 **Methodologies:** SDLC, Agile, Waterfall, Scrum, TDD  
 **Programming Languages:** C, C++, Java, JavaScript, Python, SQL  
